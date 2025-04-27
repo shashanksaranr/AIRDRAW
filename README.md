@@ -39,8 +39,11 @@ Additional gestures or keyboard controls allow pausing, resuming, clearing, and 
 # Installation
 
 git clone https://github.com/your-username/airdraw-application.git
+
 cd airdraw-application
+
 pip install -r requirements.txt
+
 python airdraw.py
 
 
