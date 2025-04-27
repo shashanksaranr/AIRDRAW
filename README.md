@@ -25,3 +25,7 @@ Python
 OpenCV
 
 MediaPipe
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/7e4dc6e5-389d-4c85-8ff2-acdc7f3a3b3a)
